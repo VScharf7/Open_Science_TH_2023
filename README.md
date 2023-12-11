@@ -1,7 +1,7 @@
 ## Open Science Project 2023
 
 #### Authors:
-	- E
+	- Einaas Kharsah
 	- Vanessa Scharf
 
 ### Publication
