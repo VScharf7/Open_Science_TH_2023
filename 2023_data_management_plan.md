@@ -71,4 +71,6 @@ tree                                                                            
 - Solving missing survey code explanation
 
 # 8. Costs and Resources
+- ongoing semester work
+- GitHub Repo
 
