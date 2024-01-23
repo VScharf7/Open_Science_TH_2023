@@ -1,5 +1,5 @@
 ## Open Science Project 2023/24
-# INTACT - 
+# INTACT - Interaction with and attachment to animals during social distancing: exploring links with mental health and wellbeing, and animal welfare and behaviur in the COVID19 pandemic
 
 Data Management Plan
 - structured documentation of how research data is collected, processed, made accessible and archived.
