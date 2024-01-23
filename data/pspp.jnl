@@ -1,9 +1,0 @@
-exit
-.5: error: EXIT: Syntax error at `;': Bad character `;' in input.
-exit;
-exit.
-get file='/home/scharf/Desktop/th_cologne/Open_Science_TH_2023/data/INTACT_dataset_OSF.sav'
-.1-7: error: GET: Syntax error at `display': expecting a valid subcommand.
-get file='/home/scharf/Desktop/th_cologne/Open_Science_TH_2023/data/INTACT_dataset_OSF.sav'.
-display dictionary.
-exit.
